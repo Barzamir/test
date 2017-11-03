@@ -5,5 +5,6 @@ int main() {
     printf("Hello, World!\n");
 	try 1
 	try 2
+	deputy
     return 0;
 }
