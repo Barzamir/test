@@ -1,4 +1,0 @@
-main.c
-<<<<<<< HEAD
-change 2
-
